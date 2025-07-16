@@ -1,10 +1,10 @@
-# 🛡️ Kathan Somani
+# Kathan Somani
 
 **Cybersecurity Professional | B.Tech Cybersecurity @ MIT ADT**
 
 ---
 
-### 🌐 About Me
+### About Me
 
 Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Club (MIT CBC). I specialize in web application security, incident response, vulnerability assessment, and compliance (OWASP, NIST, GDPR). My experience spans CTFs, red/blue team simulations, and real-world security scenarios. I build secure, high-performance frontends with React.js, Next.js, and Flask, and approach digital security with a holistic, regulation-compliant mindset.
 
@@ -14,7 +14,7 @@ Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Clu
 
 ---
 
-### 🛠️ Skills & Technologies
+###  Skills & Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white"/>
@@ -46,7 +46,7 @@ Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Clu
 
 ---
 
-### 🧪 Projects
+### Projects
 
 - **CyberRegis: The Unified Cyber Platform**  
   Real-time monitoring, Flask-powered enrichment, modular REST API, and cyber awareness modules.  
@@ -58,7 +58,7 @@ Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Clu
 
 ---
 
-### 🏆 Achievements
+### Achievements
 
 - Secretary, MIT Cybersecurity & Blockchain Club (MIT CBC)
 - Best Project Award - Ideaspark'24 MIT ADT
@@ -68,7 +68,7 @@ Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Clu
 
 ---
 
-### 🏅 Certifications
+### Certifications
 
 - Google Cybersecurity Certificate
 - Ethical Hacking Essentials
@@ -81,7 +81,7 @@ Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Clu
 
 ---
 
-### 🤝 Connect
+### Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kathan-somani-799b5a259)
 - [Email](mailto:kathansomani9875@gmail.com)
