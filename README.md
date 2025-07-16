@@ -1,21 +1,89 @@
-# 💫 About Me:
-Cybersecurity Enthusiast | Aspiring Product Manager | nCreeps team member | Secretary of the MIT ADT Cybersecurity & Blockchain Club 
+# 🛡️ Kathan Somani
 
-
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54). ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=kathan2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=kathan2004&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=kathan2004&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=kathan2004&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+**Cybersecurity Professional | B.Tech Cybersecurity @ MIT ADT**
 
 ---
-[![](https://visitcount.itsvg.in/api?id=kathan2004&icon=0&color=0)](https://visitcount.itsvg.in)
 
-  ## 💰 You can help me by Donating
-  [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/https://www.buymeacoffee.com/hyperdiablo) 
+### 🌐 About Me
 
+Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Club (MIT CBC). I specialize in web application security, incident response, vulnerability assessment, and compliance (OWASP, NIST, GDPR). My experience spans CTFs, red/blue team simulations, and real-world security scenarios. I build secure, high-performance frontends with React.js, Next.js, and Flask, and approach digital security with a holistic, regulation-compliant mindset.
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathan2004&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+---
+
+### 🛠️ Skills & Technologies
+
+<p>
+  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=for-the-badge&logo=shield&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OWASP-2C3E50?style=for-the-badge&logo=owasp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Incident%20Response-D35400?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Threat%20Intelligence-7D3C98?style=for-the-badge&logo=spy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Compliance-1ABC9C?style=for-the-badge&logo=legal&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Networking-27AE60?style=for-the-badge&logo=network&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%20Security-F39C12?style=for-the-badge&logo=websecurity&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blue%20Teaming-3498DB?style=for-the-badge&logo=security&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CTF-9B59B6?style=for-the-badge&logo=capturetheflag&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RESTful%20API-000000?style=for-the-badge&logo=data&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Digital%20Forensics-E67E22?style=for-the-badge&logo=forensics&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Blockchain-8E44AD?style=for-the-badge&logo=blockchain&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Web%203.0-2ECC71?style=for-the-badge&logo=web3&logoColor=white"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kathan2004&layout=compact&theme=radical&hide_border=true" width="60%"/>
+</p>
+
+---
+
+### 🧪 Projects
+
+- **CyberRegis: The Unified Cyber Platform**  
+  Real-time monitoring, Flask-powered enrichment, modular REST API, and cyber awareness modules.  
+  [CyberRegis Client on GitHub](https://github.com/Kathan2004/CyberRegis-Client)
+
+- **Obsidian Circuit: Automated Cyber Triage**  
+  Early-stage incident response and log forensics with blockchain-based audit trails.  
+  *Best Project Award for digital forensics innovation.*
+
+---
+
+### 🏆 Achievements
+
+- Secretary, MIT Cybersecurity & Blockchain Club (MIT CBC)
+- Best Project Award - Ideaspark'24 MIT ADT
+- Developed Cyber Forensics Lab Practicals & Manual
+- Organized 15+ CTFs, workshops, and hackathons
+- Cybersecurity Technical Team Member, MIT CBC
+
+---
+
+### 🏅 Certifications
+
+- Google Cybersecurity Certificate
+- Ethical Hacking Essentials
+- Cyber Threat Management
+- Fundamentals of Cybersecurity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kathan2004&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25&hide=prs" width="60%"/>
+</p>
+
+---
+
+### 🤝 Connect
+
+- [LinkedIn](https://www.linkedin.com/in/kathan-somani-799b5a259)
+- [Email](mailto:kathansomani9875@gmail.com)
+- [GitHub](https://github.com/kathan2004)
+- WhatsApp: +91-9574943784
