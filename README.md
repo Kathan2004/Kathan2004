@@ -75,9 +75,6 @@ Cybersecurity enthusiast and Secretary of the MIT Cybersecurity & Blockchain Clu
 - Cyber Threat Management
 - Fundamentals of Cybersecurity
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kathan2004&show_icons=true&theme=radical&hide_border=true&count_private=true&line_height=25&hide=prs" width="60%"/>
-</p>
 
 ---
 
