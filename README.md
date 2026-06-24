@@ -1,182 +1,123 @@
 <div align="center">
 
-<pre>
-kathan@sentinel:~$ whoami
-</pre>
-
 # Kathan Somani
 
-Cybersecurity Engineer
+**Cybersecurity Engineer • Security Operations • Detection Engineering**
 
-Security Operations • Detection Engineering
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=17&duration=3500&pause=1200&color=&center=true&vCenter=true&width=650&lines=Microsoft+Sentinel;Defender+XDR;Symantec+DLP;Threat+Intelligence;Security+Tool+Builder" />
 
 </div>
 
-
-
 ---
 
-## root@kathan:~$ cat about.txt
+### About Me
 
-Cybersecurity engineer specializing in security operations, detection engineering, data loss prevention, and threat intelligence.
+Cybersecurity engineer focused on security operations, threat detection, data loss prevention, and security tooling.
 
-Currently working as a Cybersecurity Intern at Bajaj Finserv Health, focusing on Microsoft Sentinel, Defender XDR, Symantec DLP, and enterprise security operations.
+Currently working as a Cybersecurity Intern at Bajaj Finserv Health.
 
 Secretary of the MIT Cybersecurity & Blockchain Club and member of the nCreeps CTF team.
 
-```bash
-root@kathan:~$ whoami
-
-Cybersecurity Engineer
-Security Operations
-Detection Engineering
-Security Tool Builder
-```
-
 ---
-
-## root@kathan:~/stats$ ./activity.sh
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=kathan2004&theme=tokyonight&hide_border=true&background=00000000&ring=8B5CF6&fire=8B5CF6&currStreakLabel=8B5CF6" width="90%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kathan2004&theme=purple&hide_border=true" width="60%"/>
 </p>
 
+<p align="center">
+  <img src="https://ghchart.rshah.org/7C3AED/kathan2004" />
+</p>
 
 ---
 
-## root@kathan:~/security$ ls
+### Security & Technologies
 
-```text
-Microsoft Sentinel
-Microsoft Defender XDR
-Symantec DLP
-Cisco Secure Email
+<p>
 
-Wireshark
-Burp Suite
-Nmap
-Zeek
-Suricata
+<img src="https://img.shields.io/badge/Microsoft_Sentinel-0078D4?style=flat-square&logo=microsoft&logoColor=white"/>
 
-MITRE ATT&CK
-OWASP Top 10
-Cyber Kill Chain
+<img src="https://img.shields.io/badge/Defender_XDR-5E5E5E?style=flat-square&logo=microsoft&logoColor=white"/>
 
-Python
-TypeScript
-React
-Next.js
-Flask
-Docker
-Linux
-```
+<img src="https://img.shields.io/badge/Symantec_DLP-FFCC00?style=flat-square"/>
 
----
+<img src="https://img.shields.io/badge/KQL-512BD4?style=flat-square"/>
 
-## root@kathan:~/projects$ tree
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark"/>
 
-```text
-.
-├── CyberRegis
-│   ├── Threat intelligence platform
-│   ├── IOC enrichment
-│   ├── VirusTotal integration
-│   └── Investigation workflows
-│
-├── Little Artemis
-│   ├── TPRM assistant
-│   ├── ChromaDB
-│   └── RAG pipeline
-│
-├── TRON
-│   ├── Outbound data protection
-│   ├── Content analysis
-│   └── Detection workflows
-│
-└── Obsidian Circuit
-    ├── Evidence integrity
-    └── Best Project Award
-```
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Nmap-00457C?style=flat-square"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python"/>
+
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js"/>
+
+<img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask"/>
+
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux"/>
+
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker"/>
+
+<img src="https://img.shields.io/badge/CTF-7C3AED?style=flat-square"/>
+
+</p>
 
 ---
 
-## root@kathan:~/experience$ cat bfhl.log
+### Projects
 
-```text
-Position:
-    Cybersecurity Intern
+#### CyberRegis
 
-Responsibilities:
-    - Security Operations
-    - Microsoft Sentinel Monitoring
-    - Defender XDR Investigations
-    - DLP Operations
-    - Cisco Secure Email
-    - Security Tool Development
-    - ISO 27001 Support
-```
+Unified threat intelligence platform with IOC enrichment, DNS analysis, and investigation workflows.
 
----
+#### Little Artemis
 
-## root@kathan:~/leadership$ ls
+RAG-based third-party risk management assistant using ChromaDB.
 
-```text
-MIT Cybersecurity & Blockchain Club
-nCreeps CTF Team
-ShunyaCTF
-Cybersecurity Workshops
-Technical Sessions
-```
+#### TRON
+
+Outbound data protection platform focused on content analysis and detection workflows.
+
+#### Obsidian Circuit
+
+Blockchain-based evidence integrity platform.
+
+🏆 Best Project Award — IdeaSpark 2024
 
 ---
 
-## root@kathan:~/certifications$ cat certs.txt
+### Experience
 
-```text
-[✓] ISC2 Certified in Cybersecurity
+**Cybersecurity Intern**
+Bajaj Finserv Health
 
-[✓] Cisco CCST Cybersecurity
-
-[✓] Zscaler ZTCA
-
-[✓] Google Cybersecurity Professional Certificate
-
-[✓] Ethical Hacking Essentials
-
-[~] CompTIA Security+
-```
+* Security Operations
+* Microsoft Sentinel
+* Defender XDR
+* Data Loss Prevention
+* Security Tool Development
+* ISO 27001 Support
 
 ---
 
-## root@kathan:~/achievements$ cat awards.txt
+### Achievements
 
-```text
-[+] Best Internship Award — MIT ADT University
-
-[+] Best Project Award — IdeaSpark 2024
-
-[+] Top 20 National CTF Ranking
-
-[+] ShunyaCTF Organizer
-
-[+] Cyber Forensics Lab Curriculum Contributor
-```
+* Best Internship Award — MIT ADT University
+* Best Project Award — IdeaSpark 2024
+* Top 20 National CTF Ranking
+* Secretary, MIT Cybersecurity & Blockchain Club
+* ShunyaCTF Organizer
 
 ---
 
-> Security is the ability to detect, respond, and improve.
+### Connect
+
+* LinkedIn — linkedin.com/in/kathansomani2004
+* Email — [kathansomani9875@gmail.com](mailto:kathansomani9875@gmail.com)
+* GitHub — github.com/kathan2004
 
 ---
-
-## root@kathan:~$ ping socials
-
-* LinkedIn: https://linkedin.com/in/kathansomani2004
-* Email: [kathansomani9875@gmail.com](mailto:kathansomani9875@gmail.com)
-* GitHub: https://github.com/kathan2004
-
-```bash
-root@kathan:~# exit
-
-logout
-Connection closed.
-```
