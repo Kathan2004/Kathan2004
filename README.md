@@ -110,7 +110,7 @@ Bajaj Finserv Health
 * Best Project Award — IdeaSpark 2024
 * Top 20 National CTF Ranking
 * Secretary, MIT Cybersecurity & Blockchain Club
-* ShunyaCTF Organizer
+* ShunyaCTF Organizer ( National Level Ctf )
 
 ---
 
