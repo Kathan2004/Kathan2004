@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="760" height="60" viewBox="0 18 760 60" role="img" aria-label="Zscaler DLP and Zero Trust, Microsoft Sentinel, Defender XDR, Security Automation, Threat Intelligence, Security Tool Builder">
+<style>
+text{font-family:"JetBrains Mono",ui-monospace,SFMono-Regular,Menlo,Consolas,monospace;font-size:18px;font-weight:600;fill:#58A6FF}
+
+@keyframes t0{0%,0.00%{width:0}7.50%,14.17%{width:262px}16.67%,100%{width:0}}#c0{animation:t0 18.0s steps(24) infinite}@keyframes t1{0%,16.67%{width:0}24.17%,30.83%{width:196px}33.33%,100%{width:0}}#c1{animation:t1 18.0s steps(18) infinite}@keyframes t2{0%,33.33%{width:0}40.83%,47.50%{width:131px}50.00%,100%{width:0}}#c2{animation:t2 18.0s steps(12) infinite}@keyframes t3{0%,50.00%{width:0}57.50%,64.17%{width:207px}66.67%,100%{width:0}}#c3{animation:t3 18.0s steps(19) infinite}@keyframes t4{0%,66.67%{width:0}74.17%,80.83%{width:207px}83.33%,100%{width:0}}#c4{animation:t4 18.0s steps(19) infinite}@keyframes t5{0%,83.33%{width:0}90.83%,97.50%{width:229px}100.00%,100%{width:0}}#c5{animation:t5 18.0s steps(21) infinite}
+
+@media (prefers-color-scheme: light){text{fill:#0969da}}
+</style>
+
+<clipPath id="k0"><rect id="c0" x="249" y="20" height="56" width="0"/></clipPath><text clip-path="url(#k0)" x="380.0" y="54.0" text-anchor="middle">Zscaler DLP &amp; Zero Trust</text><clipPath id="k1"><rect id="c1" x="282" y="20" height="56" width="0"/></clipPath><text clip-path="url(#k1)" x="380.0" y="54.0" text-anchor="middle">Microsoft Sentinel</text><clipPath id="k2"><rect id="c2" x="315" y="20" height="56" width="0"/></clipPath><text clip-path="url(#k2)" x="380.0" y="54.0" text-anchor="middle">Defender XDR</text><clipPath id="k3"><rect id="c3" x="276" y="20" height="56" width="0"/></clipPath><text clip-path="url(#k3)" x="380.0" y="54.0" text-anchor="middle">Security Automation</text><clipPath id="k4"><rect id="c4" x="276" y="20" height="56" width="0"/></clipPath><text clip-path="url(#k4)" x="380.0" y="54.0" text-anchor="middle">Threat Intelligence</text><clipPath id="k5"><rect id="c5" x="266" y="20" height="56" width="0"/></clipPath><text clip-path="url(#k5)" x="380.0" y="54.0" text-anchor="middle">Security Tool Builder</text>
+
+
+</svg>

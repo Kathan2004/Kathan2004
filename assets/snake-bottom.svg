@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="22" viewBox="0 0 900 22" preserveAspectRatio="xMidYMid meet" role="img" aria-label="">
+<style>
+@keyframes run{0%,49.99%{transform:translateX(1100px)}50%{transform:translateX(930px)}100%{transform:translateX(-160px)}}
+@keyframes wig{0%,100%{transform:translateY(-2.5px)}50%{transform:translateY(2.5px)}}
+.s{animation:run 16s linear infinite}
+.w{animation:wig .7s ease-in-out infinite}
+@media (prefers-reduced-motion: reduce){.s,.w{animation:none}.s{transform:translateX(-200px)}}
+</style>
+<g class="s"><circle class="w" style="animation-delay:-0.96s" cx="132" cy="11.0" r="2.6" fill="#7c3aed" fill-opacity="0.40"/><circle class="w" style="animation-delay:-0.88s" cx="121" cy="11.0" r="2.9" fill="#7c3aed" fill-opacity="0.45"/><circle class="w" style="animation-delay:-0.80s" cx="110" cy="11.0" r="3.2" fill="#7c3aed" fill-opacity="0.50"/><circle class="w" style="animation-delay:-0.72s" cx="99" cy="11.0" r="3.5" fill="#7c3aed" fill-opacity="0.55"/><circle class="w" style="animation-delay:-0.64s" cx="88" cy="11.0" r="3.8" fill="#7c3aed" fill-opacity="0.60"/><circle class="w" style="animation-delay:-0.56s" cx="77" cy="11.0" r="4.0" fill="#7c3aed" fill-opacity="0.65"/><circle class="w" style="animation-delay:-0.48s" cx="66" cy="11.0" r="4.3" fill="#7c3aed" fill-opacity="0.70"/><circle class="w" style="animation-delay:-0.40s" cx="55" cy="11.0" r="4.6" fill="#7c3aed" fill-opacity="0.75"/><circle class="w" style="animation-delay:-0.32s" cx="44" cy="11.0" r="4.9" fill="#7c3aed" fill-opacity="0.80"/><circle class="w" style="animation-delay:-0.24s" cx="33" cy="11.0" r="5.2" fill="#7c3aed" fill-opacity="0.85"/><circle class="w" style="animation-delay:-0.16s" cx="22" cy="11.0" r="5.4" fill="#7c3aed" fill-opacity="0.90"/><circle class="w" style="animation-delay:-0.08s" cx="11" cy="11.0" r="5.7" fill="#7c3aed" fill-opacity="0.95"/><circle class="w" style="animation-delay:-0.00s" cx="0" cy="11.0" r="6.0" fill="#a78bfa" fill-opacity="1.00"/><g class="w" style="animation-delay:0s"><circle cx="-2" cy="8.8" r="1" fill="#0d1117"/><circle cx="-2" cy="13.2" r="1" fill="#0d1117"/></g></g>
+</svg>
