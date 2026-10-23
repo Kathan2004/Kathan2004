@@ -78,26 +78,25 @@ I work on data loss prevention, Zero Trust and detection engineering, and I buil
 
 ### Projects
 
-**[Tron](https://github.com/Kathan2004/Tron-the-DLP-Agent)**: open-source endpoint and web DLP. Python agents watch the clipboard, USB, file uploads and outbound network volume; a Chrome extension inspects web pastes and uploads; a central console handles fleet, policies, exceptions and governance. Detection pairs regex and Luhn validation with OCR of PDFs, Office files and images, and matched values are redacted before an LLM triage step scores risk.
-<sub>Python · Flask · React · Chrome MV3</sub>
+**[AgentBrain](https://github.com/Kathan2004/AgentBrain)**: local-first continuity layer for AI coding agents. A task's objective, progress, decisions and Git state live with the repository, so work moves between Claude Code, Codex, Copilot, Cursor and local models without starting over. A web control room shows every agent at work; a lead agent or a voting review council decides what lands, with evidence checks and a full audit of who wrote and approved each change. Machines join a shared hub to see each other's tasks and delegate work across them, with model tiers, autopilot and an Obsidian-style memory vault.
+<sub>TypeScript · Node.js · MCP · ACP · Git worktrees</sub>
 
-**[Threat Nexus](https://github.com/Kathan2004/Threat-Nexus)**: cyber threat intelligence platform. 18 collectors (CISA KEV, NVD, OTX, VirusTotal, Shodan, MISP, OpenCTI and more) feed a pipeline that normalizes, deduplicates, enriches, correlates and scores intelligence, served through a FastAPI with JWT and RBAC and a Next.js SOC UI.
-<sub>Python · FastAPI · MongoDB · Next.js</sub>
+**[Tron](https://github.com/Kathan2004/Tron-the-DLP-Agent)**: production-ready, open-source endpoint and web DLP. Python agents (macOS, Linux, Windows) watch the clipboard, USB, file uploads and outbound network volume; a Chrome extension inspects web pastes and uploads; a React console handles fleet, policies, exceptions, governance and SIEM forwarding. Detection runs 53 validated detectors (Luhn, Verhoeff, mod-97 and more), Exact Data Match and document fingerprinting over PDFs, Office files, archives and OCR'd images, and redacts every value before an LLM triage step scores risk. Per-agent keys, encryption at rest, a hash-chained audit trail and a hardened container deployment.
+<sub>Python · Flask · React · Chrome MV3 · Docker</sub>
 
 **[CyberRegis](https://github.com/Kathan2004/CyberRegis_Server)**: threat intelligence and security analysis platform combining IOC reputation (VirusTotal, AbuseIPDB, Shodan), live threat feeds, domain checks, PCAP analysis and high-risk-only alerting. Co-authored a research paper on it with faculty; reached 98.5% URL threat-detection accuracy in controlled evaluation. [Server](https://github.com/Kathan2004/CyberRegis_Server) · [Client](https://github.com/Kathan2004/CyberRegis-Client)
 <sub>Python · Flask · Next.js · TypeScript</sub>
 
-**[PHIS Sentinel](https://github.com/Kathan2004/Phis-Extension)**: on-device anti-phishing extension for Gmail and Outlook Web. Security rules, URL intelligence and local ML run in the browser, so email content never leaves the device.
-<sub>TypeScript · Manifest V3 · Transformers.js · ONNX</sub>
-
-**Little Artemis** (private): RAG assistant for third-party risk management. Answers questions over TPRM policies and runs vendor assessments with source-cited findings.
+**Artemis** (private): RAG assistant for third-party risk management. Answers questions over TPRM policies and runs vendor assessments with source-cited findings.
 <sub>Python · ChromaDB · Gemini · Streamlit</sub>
 
-**[AgentBrain](https://github.com/Kathan2004/AgentBrain)**: local-first continuity layer for AI coding agents. Move a task between Claude Code, Codex, Copilot, Cursor and others without losing its state.
-<sub>TypeScript · MCP · ACP</sub>
+#### Tools
 
-**[Obsidian Circuit](https://github.com/Beginner-o1/Obsidian-Circuit)**: team project, Best Idea Award at Ideathon'24. Digital forensics workbench with blockchain-anchored evidence: PCAP and log triage, file hashing, and an IPFS + Ethereum chain of custody. ([my fork](https://github.com/Kathan2004/Obsidian-Circuit))
-<sub>React · Node.js · Solidity · IPFS</sub>
+**[Converter Studio](https://github.com/Kathan2004/converter-studio)**: browser-only file toolkit. Compress, merge, split, protect (AES-256), sign and repair PDFs; convert and OCR images (including HEIC and QR codes); convert JSON, CSV, Excel, YAML and XML; Markdown, Word and HTML to PDF; ZIP, password ZIP, hashing and AES-256-GCM file encryption. Everything runs locally in the browser and nothing is uploaded. [Live site](https://converterstudio.netlify.app/) · [Release 2.4.0](https://github.com/Kathan2004/converter-studio/releases/tag/v2.4.0)
+<sub>JavaScript · WebAssembly · Tesseract · qpdf · Netlify</sub>
+
+**[DanglingBlob](https://github.com/Kathan2004/DanglingBlob--File-to-Link)**: self-hosted file drop. Uploads become expiring, optionally password-protected share links, with no database.
+<sub>Netlify Functions · Netlify Blobs</sub>
 
 ---
 
@@ -113,7 +112,7 @@ I work on data loss prevention, Zero Trust and detection engineering, and I buil
 
 ### Also
 
-[Cybersecurity notes](https://github.com/Kathan2004/Notes), organised by chapter.
+[Cybersecurity notes](https://github.com/Kathan2004/Notes), organised by chapter, plus a [Security+ SY0-701 practice bank](https://kathan2004.github.io/Notes/security-plus-701/) with 900 original questions.
 
 ### Connect
 
